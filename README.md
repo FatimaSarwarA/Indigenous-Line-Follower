@@ -68,8 +68,9 @@ All logical outputs eventually route to the **Motor Driver IC (L293D)**, which b
 ## 📷 Media & Schematics
 
 ### Breadboard Wiring
-![Breadboard 1](path/to/breadboard-image.jpg)
-Step-by-step logic testing was performed on the trainer board, utilizing LED displays to verify sensor output and counting mechanisms[cite: 3]. 
+<img width="1600" height="1200" alt="Breadboard image" src="https://github.com/user-attachments/assets/b5098c52-a84c-47dd-9a85-49bc6e14c041" />
+Step-by-step logic testing was performed on the breadboard, utilizing LED displays to verify sensor output and counting mechanisms. 
 
 ### Final Robot
-![Final Robot](path/to/final-robot.jpg)
+<img width="1600" height="1200" alt="Final Robot" src="https://github.com/user-attachments/assets/7784aa00-4438-454d-ad4e-5eab5767041e" />
+
